@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\bin\Debug\net7.0\OrientaçãoObjetos.exe
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\bin\Debug\net7.0\OrientaçãoObjetos.deps.json
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\bin\Debug\net7.0\OrientaçãoObjetos.runtimeconfig.json
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\bin\Debug\net7.0\OrientaçãoObjetos.dll
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\bin\Debug\net7.0\OrientaçãoObjetos.pdb
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\obj\Debug\net7.0\OrientaçãoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\obj\Debug\net7.0\OrientaçãoObjetos.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\obj\Debug\net7.0\OrientaçãoObjetos.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\obj\Debug\net7.0\OrientaçãoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\obj\Debug\net7.0\OrientaçãoObjetos.dll
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\obj\Debug\net7.0\refint\OrientaçãoObjetos.dll
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\obj\Debug\net7.0\OrientaçãoObjetos.pdb
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\obj\Debug\net7.0\OrientaçãoObjetos.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Documentos\c#\Exercicios c#\OrientaçãoObjetos\obj\Debug\net7.0\ref\OrientaçãoObjetos.dll
